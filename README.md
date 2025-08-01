@@ -81,4 +81,4 @@ Bu proje **Mehmet Gümüş** tarafından geliştirilmiştir.
 
 ## 📜 Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
+Bu proje MIT Lisansı altında lisanslanmıştır.
